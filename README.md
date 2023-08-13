@@ -1,4 +1,4 @@
-# Simple BoundingBox with Contour and Enclosing Circle (Python)
+# Simple BoundingBox with Contour and Enclosing Circle
 
 This project is a simple implementation of bounding boxes with contours and enclosing circles using OpenCV and matplotlib in Python. It takes an input image, performs image processing operations, and generates bounding boxes around objects detected in the image.
 
